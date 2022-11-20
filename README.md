@@ -15,5 +15,5 @@ This repository includes a table of data about Connecticut's 2011 population est
 
 ## Utilizing the Data:
 The County Health Data included in this repository can be utilized to reproduce or create visualizations. The Connecticut Data Set was used to produced the bar chart below. 
-![data-viz](/data/rNqOD-connecticut-income-and-health-care-costs.png)
+![data-viz](/data/connecticut.png)
 
