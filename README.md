@@ -1,4 +1,4 @@
-# Engl105
+# Engl105 - Walden
 
 This is a repository containing instructional materials, sample data, and ways the data was utilized for Carly Walden's English 105 Unit 3 project.
 
