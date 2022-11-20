@@ -13,4 +13,5 @@ This repository includes a table of data about Connecticut's 2011 population est
 - This data consists of information about numerous public health topics from every state and examples of ways the data can be used. The data can be manipulated by someone with any amount of coding experience. 
 - This repository was created for a user wishing to utilize the public health data within the CountyHealthData_2014-2015.csv. The repository also contains steps for user's who wish to reproduce any of the examples or the Connecticut public health table.
 
-![data-viz](/data/rNqOD-connecticut-income-health-care-costs.png)
+![data-viz](/data/rNqOD-connecticut-income-and-health-care-costs.png)
+
