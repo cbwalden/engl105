@@ -1,6 +1,7 @@
-# Engl105 - Walden
+# County Health Data
+Engl105 - Walden
 
-This is a repository containing instructional materials, sample data, and ways the data was utilized for Carly Walden's English 105 Unit 3 project.
+This is a repository containing instructional materials, sample data, and ways the data was utilized from the data set.
 
 The repository contains python notebooks with basic coding information, beginner modules on using Pandas for data analysis, and a public health data set.
 
