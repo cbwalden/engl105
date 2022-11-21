@@ -1,5 +1,4 @@
 # County Health Data  
-### Engl105 - Walden
 
 This is a repository containing instructional materials, sample data, and ways the data was utilized from the data set.
 
@@ -18,3 +17,4 @@ This repository includes a table of data about Connecticut's 2011 population est
 The County Health Data included in this repository can be utilized to reproduce or create visualizations. The Connecticut Data Set was used to produced the bar chart below. 
 ![data-viz](/data/connecticut.png)
 
+This repository was created for the English 105 class at the University of North Carolina at Chapel Hill. 
